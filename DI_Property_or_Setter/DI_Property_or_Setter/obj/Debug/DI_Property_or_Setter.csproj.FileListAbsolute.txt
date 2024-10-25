@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Property_or_Setter\DI_Property_or_Setter\bin\Debug\DI_Property_or_Setter.exe.config
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Property_or_Setter\DI_Property_or_Setter\bin\Debug\DI_Property_or_Setter.exe
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Property_or_Setter\DI_Property_or_Setter\bin\Debug\DI_Property_or_Setter.pdb
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Property_or_Setter\DI_Property_or_Setter\obj\Debug\DI_Property_or_Setter.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Property_or_Setter\DI_Property_or_Setter\obj\Debug\DI_Property_or_Setter.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Property_or_Setter\DI_Property_or_Setter\obj\Debug\DI_Property_or_Setter.exe
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Property_or_Setter\DI_Property_or_Setter\obj\Debug\DI_Property_or_Setter.pdb

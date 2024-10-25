@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Constructor\DI_Constructor\bin\Debug\DI_Constructor.exe.config
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Constructor\DI_Constructor\bin\Debug\DI_Constructor.exe
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Constructor\DI_Constructor\bin\Debug\DI_Constructor.pdb
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Constructor\DI_Constructor\obj\Debug\DI_Constructor.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Constructor\DI_Constructor\obj\Debug\DI_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Constructor\DI_Constructor\obj\Debug\DI_Constructor.exe
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Constructor\DI_Constructor\obj\Debug\DI_Constructor.pdb

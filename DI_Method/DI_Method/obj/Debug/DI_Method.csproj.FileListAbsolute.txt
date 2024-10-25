@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Method\DI_Method\bin\Debug\DI_Method.exe.config
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Method\DI_Method\bin\Debug\DI_Method.exe
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Method\DI_Method\bin\Debug\DI_Method.pdb
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Method\DI_Method\obj\Debug\DI_Method.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Method\DI_Method\obj\Debug\DI_Method.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Method\DI_Method\obj\Debug\DI_Method.exe
+C:\Users\hp\source\repos\DEPENDENCY_INJECTION\DI_Method\DI_Method\obj\Debug\DI_Method.pdb
